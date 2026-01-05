@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aswin</h1>
 <h3 align="center">A passionate developer at UIUC</h3>
 
-- 🔭 I’m currently working on [an apartment finding website]((https://github.com/aswin-skk21/ChiApt))
+- 🔭 I’m currently working on [an apartment finding website][(https://github.com/aswin-skk21/ChiApt)]
 
-- 🌱 I’m currently learning **Spring Boot
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aswin-skk21/][(https://github.com/aswin-skk21/)]
 
