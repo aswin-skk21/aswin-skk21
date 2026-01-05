@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [an apartment finding website]((https://github.com/aswin-skk21/ChiApt))
 
-- 🌱 I’m currently learning Spring Boot**
+- 🌱 I’m currently learning **Spring Boot
 
-- 👨‍💻 All of my projects are available at [https://github.com/aswin-skk21/](https://github.com/aswin-skk21/)
+- 👨‍💻 All of my projects are available at [https://github.com/aswin-skk21/][(https://github.com/aswin-skk21/)]
 
 - 📫 How to reach me **aswin.skk21@gmail.com**
 
